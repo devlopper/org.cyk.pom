@@ -17,7 +17,7 @@
 		<version.java>1.7</version.java>
 		<version.javaee>7.0</version.javaee>
 		<!-- Test -->
-		<version.junit>4.11</version.junit>
+		<version.junit>4.13.1</version.junit>
 		<version.derby>10.10.1.1</version.derby>
 		<version.mysql>5.1.30</version.mysql>
 		<version.graphene.webdriver>2.0.1.Final</version.graphene.webdriver>
