@@ -100,7 +100,7 @@
 		<org.apache.logging.log4j.log4j-api.version>${org.apache.logging.log4j.version}</org.apache.logging.log4j.log4j-api.version>
 		<!-- Database connector driver -->
 		<com.h2database.h2.version>1.4.197</com.h2database.h2.version>
-		<mysql.mysql-connector-java.version>5.1.47</mysql.mysql-connector-java.version>
+		<mysql.mysql-connector-java.version>8.0.28</mysql.mysql-connector-java.version>
 		<com.oracle.ojdbc6.version>11.2.0.4</com.oracle.ojdbc6.version>
 		<!-- Dependency injection -->
 		<org.jboss.weld.se.weld-se-core.version>3.1.0.Final</org.jboss.weld.se.weld-se-core.version>
