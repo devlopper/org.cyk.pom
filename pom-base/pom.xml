@@ -1813,6 +1813,7 @@
 		                        </feature-pack>
 		                	</feature-packs>
 		                	<layers>
+		                		<layer>ejb-lite</layer>
 		                		<layer>logging</layer>
 		                    	<layer>cloud-server</layer>
 		                    	<layer>microprofile-openapi</layer>
